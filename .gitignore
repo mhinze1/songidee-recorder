@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Xcode: persönliche Einstellungen
+xcuserdata/
+*.xcuserstate
+
+# Xcode: Bauergebnisse
+DerivedData/
+build/
+.build/
+.swiftpm/
+
+# Eigene Testaufnahmen (nicht ins Git)
+Testaufnahmen/
+
+# Schlüssel und Geheimnisse
+*.pem
+.env
